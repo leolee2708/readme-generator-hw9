@@ -9,6 +9,7 @@
   * [License](#license)
   * [Test](#test)
   * [Questions](#questions)
+  * [Demo](#demo)
   
   ## Description
   code command lines that will create a README files based on node.js, NPM and inquirer
@@ -34,3 +35,8 @@
   
   Email:[leho.vietquan@gmail.com](https://github.com/leolee2708)
   
+  ## DEMO
+![GIF](https://media.giphy.com/media/ldgMEWjNx2sIuwhRls/giphy.gif)
+
+![Link to my video](https://www.loom.com/share/51c6cf31b21b45c88b52dd9c6c91038c?sharedAppSource=personal_library)
+https://www.loom.com/share/51c6cf31b21b45c88b52dd9c6c91038c?sharedAppSource=personal_library
