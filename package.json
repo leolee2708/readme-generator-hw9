@@ -1,0 +1,23 @@
+{
+  "name": "readme-generator-hw9",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leolee2708/readme-generator-hw9.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leolee2708/readme-generator-hw9/issues"
+  },
+  "homepage": "https://github.com/leolee2708/readme-generator-hw9#readme",
+  "dependencies": {
+    "inquirer": "^7.3.3"
+  }
+}
